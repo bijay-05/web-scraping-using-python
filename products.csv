@@ -1,113 +1,113 @@
-product_name,unit_cost,product_category,product_subcategory,product_brand
-tuborg BEERS,847.75,Drinks and beverages,BEERS,tuborg
-Gorkha BEERS,733.68,Drinks and beverages,BEERS,Gorkha
-Nepal Ice BEERS,437.4,Drinks and beverages,BEERS,Nepal Ice
-Budweiser BEERS,553.73,Drinks and beverages,BEERS,Budweiser
-Arna BEERS,35.27,Drinks and beverages,BEERS,Arna
-LondonIce BEERS,869.61,Drinks and beverages,BEERS,LondonIce
-oldmonk RUM,784.74,Drinks and beverages,RUM,oldmonk
-Bacardi RUM,663.45,Drinks and beverages,RUM,Bacardi
-Khukuri RUM,112.4,Drinks and beverages,RUM,Khukuri
-JD WHISKEY,208.14,Drinks and beverages,WHISKEY,JD
-OD WHISKEY,190.61,Drinks and beverages,WHISKEY,OD
-Signature WHISKEY,290.09,Drinks and beverages,WHISKEY,Signature
-Golden OAK WHISKEY,694.19,Drinks and beverages,WHISKEY,Golden OAK
-Black OAK WHISKEY,260.4,Drinks and beverages,WHISKEY,Black OAK
-Black Label WHISKEY,175.4,Drinks and beverages,WHISKEY,Black Label
-Big Master WINE,523.95,Drinks and beverages,WINE,Big Master
-Real FRUIT JUICE,400.88,Drinks and beverages,FRUIT JUICE,Real
-nivea Body Lotion,393.25,Beauty and hygiene,Body Lotion,nivea
-vaseline Body Lotion,376.2,Beauty and hygiene,Body Lotion,vaseline
-himalaya Body Lotion,149.4,Beauty and hygiene,Body Lotion,himalaya
-dove Body Lotion,809.42,Beauty and hygiene,Body Lotion,dove
-boroplus Body Lotion,269.23,Beauty and hygiene,Body Lotion,boroplus
-patanjali Body Lotion,51.51,Beauty and hygiene,Body Lotion,patanjali
-battas Sun guards and cream,995.87,Beauty and hygiene,Sun guards and cream,battas
-plum Sun guards and cream,200.11,Beauty and hygiene,Sun guards and cream,plum
-OSHEA Sun guards and cream,948.78,Beauty and hygiene,Sun guards and cream,OSHEA
-Lakme Sun guards and cream,13.58,Beauty and hygiene,Sun guards and cream,Lakme
-himalaya Sun guards and cream,375.54,Beauty and hygiene,Sun guards and cream,himalaya
-nivea face wash,433.01,Beauty and hygiene,face wash,nivea
-vaseline face wash,610.92,Beauty and hygiene,face wash,vaseline
-himalaya face wash,496.13,Beauty and hygiene,face wash,himalaya
-dove face wash,908.91,Beauty and hygiene,face wash,dove
-boroplus face wash,57.43,Beauty and hygiene,face wash,boroplus
-patanjali face wash,459.73,Beauty and hygiene,face wash,patanjali
-hair& shoulders shampoo,461.73,Beauty and hygiene,shampoo,hair& shoulders
-sunsilk shampoo,113.34,Beauty and hygiene,shampoo,sunsilk
-dove shampoo,877.24,Beauty and hygiene,shampoo,dove
-patanjali shampoo,878.72,Beauty and hygiene,shampoo,patanjali
-pantene shampoo,306.55,Beauty and hygiene,shampoo,pantene
-ugen tissue paper,341.05,Beauty and hygiene,tissue paper,ugen
-reyon tissue paper,448.13,Beauty and hygiene,tissue paper,reyon
-laryez tissue paper,348.2,Beauty and hygiene,tissue paper,laryez
-gyudd tissue paper,19.27,Beauty and hygiene,tissue paper,gyudd
-pepsodent tooth paste,797.99,Beauty and hygiene,tooth paste,pepsodent
-patanjali tooth paste,735.55,Beauty and hygiene,tooth paste,patanjali
-close up tooth paste,975.67,Beauty and hygiene,tooth paste,close up
-colgate tooth paste,73.72,Beauty and hygiene,tooth paste,colgate
-sensodyne tooth paste,497.59,Beauty and hygiene,tooth paste,sensodyne
-rin soaps & detergents,878.34,Beauty and hygiene,soaps & detergents,rin
-surf excel soaps & detergents,703.56,Beauty and hygiene,soaps & detergents,surf excel
-tide soaps & detergents,272.18,Beauty and hygiene,soaps & detergents,tide
-lifebuoy soaps & detergents,938.18,Beauty and hygiene,soaps & detergents,lifebuoy
-dettol soaps & detergents,392.9,Beauty and hygiene,soaps & detergents,dettol
-lux soaps & detergents,23.02,Beauty and hygiene,soaps & detergents,lux
-dove soaps & detergents,929.54,Beauty and hygiene,soaps & detergents,dove
-haldirams aloo Namkeen,337.51,Dry fruits and snacks,Namkeen,haldirams aloo
-haldirams mix Namkeen,249.21,Dry fruits and snacks,Namkeen,haldirams mix
-haldirams moong dal Namkeen,672.06,Dry fruits and snacks,Namkeen,haldirams moong dal
-haldirams sweet Namkeen,462.87,Dry fruits and snacks,Namkeen,haldirams sweet
-bikano aloo Namkeen,172.42,Dry fruits and snacks,Namkeen,bikano aloo
-bikano mix Namkeen,450.24,Dry fruits and snacks,Namkeen,bikano mix
-Lays Chips,285.95,Dry fruits and snacks,Chips,Lays
-Spicy Potato Chips,549.83,Dry fruits and snacks,Chips,Spicy Potato
-Kurkure Chips,262.57,Dry fruits and snacks,Chips,Kurkure
-popcorn Chips,523.42,Dry fruits and snacks,Chips,popcorn
-pringles Chips,96.17,Dry fruits and snacks,Chips,pringles
-beno dry Cashews,49.85,Dry fruits and snacks,Cashews,beno dry
-almani Cashews,537.64,Dry fruits and snacks,Cashews,almani
-beeyo Cashews,994.36,Dry fruits and snacks,Cashews,beeyo
-dini Cashews,599.17,Dry fruits and snacks,Cashews,dini
-beno dry Raisins,164.63,Dry fruits and snacks,Raisins,beno dry
-almani Raisins,435.03,Dry fruits and snacks,Raisins,almani
-beeyo Raisins,906.89,Dry fruits and snacks,Raisins,beeyo
-dini Raisins,706.04,Dry fruits and snacks,Raisins,dini
-beno dry Walnut,341.72,Dry fruits and snacks,Walnut,beno dry
-almani Walnut,718.55,Dry fruits and snacks,Walnut,almani
-beeyo Walnut,800.66,Dry fruits and snacks,Walnut,beeyo
-dini Walnut,781.38,Dry fruits and snacks,Walnut,dini
-Korean Ramen Instant Noodles,383.62,Dry fruits and snacks,Instant Noodles,Korean Ramen
-Chinsoo Instant Noodles,298.35,Dry fruits and snacks,Instant Noodles,Chinsoo
-Current Spicy Instant Noodles,460.76,Dry fruits and snacks,Instant Noodles,Current Spicy
-2PM Spicy Instant Noodles,966.04,Dry fruits and snacks,Instant Noodles,2PM Spicy
-Hot Pot Instant Noodles,259.46,Dry fruits and snacks,Instant Noodles,Hot Pot
-Good day Biscuits & Cookies,887.75,Dry fruits and snacks,Biscuits & Cookies,Good day
-Monaco Biscuits & Cookies,440.81,Dry fruits and snacks,Biscuits & Cookies,Monaco
-Britania Biscuits & Cookies,369.18,Dry fruits and snacks,Biscuits & Cookies,Britania
-Marie Gold Biscuits & Cookies,62.27,Dry fruits and snacks,Biscuits & Cookies,Marie Gold
-Sugar Free digestive Biscuits & Cookies,891.98,Dry fruits and snacks,Biscuits & Cookies,Sugar Free digestive
-BourBourn Biscuits & Cookies,713.73,Dry fruits and snacks,Biscuits & Cookies,BourBourn
-Hulas Rice,440.41,Daily Groceries,Rice,Hulas
-Basmati Rice,902.88,Daily Groceries,Rice,Basmati
-Marsee Rice,661.25,Daily Groceries,Rice,Marsee
-india gate Rice,506.9,Daily Groceries,Rice,india gate
-Gyan Chakki Flour,599.43,Daily Groceries,Flour,Gyan Chakki
-Bhumi Flour,165.4,Daily Groceries,Flour,Bhumi
-Healthy One Flour,915.46,Daily Groceries,Flour,Healthy One
-Monio Olive Oil,288.6,Daily Groceries,Olive Oil,Monio
-Forever Healthy Olive Oil,418.48,Daily Groceries,Olive Oil,Forever Healthy
-Dhara Olive Oil,104.38,Daily Groceries,Olive Oil,Dhara
-Patanjali Olive Oil,404.36,Daily Groceries,Olive Oil,Patanjali
-Pena lentils,675.83,Daily Groceries,lentils,Pena
-Gyanu lentils,505.97,Daily Groceries,lentils,Gyanu
-Sanu Chana lentils,928.22,Daily Groceries,lentils,Sanu Chana
-Palm lentils,816.49,Daily Groceries,lentils,Palm
-Everest Chilly Spices,359.31,Daily Groceries,Spices,Everest Chilly
-Everest Veggy Spices,392.0,Daily Groceries,Spices,Everest Veggy
-Everest Chicken Spices,567.86,Daily Groceries,Spices,Everest Chicken
-Century Momo Spices,764.94,Daily Groceries,Spices,Century Momo
-Century chilly Spices,961.76,Daily Groceries,Spices,Century chilly
-Century Chaat Spices,732.05,Daily Groceries,Spices,Century Chaat
-Good vinegar seasoners,890.08,Daily Groceries,seasoners,Good vinegar
-Garlic Paste seasoners,31.18,Daily Groceries,seasoners,Garlic Paste
+product_id,product_name,unit_cost,product_category,product_subcategory,product_brand
+10875,tuborg BEERS,847.75,Drinks and beverages,BEERS,tuborg
+10876,Gorkha BEERS,733.68,Drinks and beverages,BEERS,Gorkha
+10877,Nepal Ice BEERS,437.40,Drinks and beverages,BEERS,Nepal Ice
+10878,Budweiser BEERS,553.73,Drinks and beverages,BEERS,Budweiser
+10879,Arna BEERS,35.27,Drinks and beverages,BEERS,Arna
+10880,LondonIce BEERS,869.61,Drinks and beverages,BEERS,LondonIce
+10881,oldmonk RUM,784.74,Drinks and beverages,RUM,oldmonk
+10882,Bacardi RUM,663.45,Drinks and beverages,RUM,Bacardi
+10883,Khukuri RUM,112.40,Drinks and beverages,RUM,Khukuri
+10884,JD WHISKEY,208.14,Drinks and beverages,WHISKEY,JD
+10885,OD WHISKEY,190.61,Drinks and beverages,WHISKEY,OD
+10886,Signature WHISKEY,290.09,Drinks and beverages,WHISKEY,Signature
+10887,Golden OAK WHISKEY,694.19,Drinks and beverages,WHISKEY,Golden OAK
+10888,Black OAK WHISKEY,260.40,Drinks and beverages,WHISKEY,Black OAK
+10889,Black Label WHISKEY,175.40,Drinks and beverages,WHISKEY,Black Label
+10890,Big Master WINE,523.95,Drinks and beverages,WINE,Big Master
+10891,Real FRUIT JUICE,400.88,Drinks and beverages,FRUIT JUICE,Real
+10892,nivea Body Lotion,393.25,Beauty and hygiene,Body Lotion,nivea
+10893,vaseline Body Lotion,376.20,Beauty and hygiene,Body Lotion,vaseline
+10894,himalaya Body Lotion,149.40,Beauty and hygiene,Body Lotion,himalaya
+10895,dove Body Lotion,809.42,Beauty and hygiene,Body Lotion,dove
+10896,boroplus Body Lotion,269.23,Beauty and hygiene,Body Lotion,boroplus
+10897,patanjali Body Lotion,51.51,Beauty and hygiene,Body Lotion,patanjali
+10898,battas Sun guards and cream,995.87,Beauty and hygiene,Sun guards and cream,battas
+10899,plum Sun guards and cream,200.11,Beauty and hygiene,Sun guards and cream,plum
+10900,OSHEA Sun guards and cream,948.78,Beauty and hygiene,Sun guards and cream,OSHEA
+10901,Lakme Sun guards and cream,13.58,Beauty and hygiene,Sun guards and cream,Lakme
+10902,himalaya Sun guards and cream,375.54,Beauty and hygiene,Sun guards and cream,himalaya
+10903,nivea face wash,433.01,Beauty and hygiene,face wash,nivea
+10904,vaseline face wash,610.92,Beauty and hygiene,face wash,vaseline
+10905,himalaya face wash,496.13,Beauty and hygiene,face wash,himalaya
+10906,dove face wash,908.91,Beauty and hygiene,face wash,dove
+10907,boroplus face wash,57.43,Beauty and hygiene,face wash,boroplus
+10908,patanjali face wash,459.73,Beauty and hygiene,face wash,patanjali
+10909,hair& shoulders shampoo,461.73,Beauty and hygiene,shampoo,hair& shoulders
+10910,sunsilk shampoo,113.34,Beauty and hygiene,shampoo,sunsilk
+10911,dove shampoo,877.24,Beauty and hygiene,shampoo,dove
+10912,patanjali shampoo,878.72,Beauty and hygiene,shampoo,patanjali
+10913,pantene shampoo,306.55,Beauty and hygiene,shampoo,pantene
+10914,ugen tissue paper,341.05,Beauty and hygiene,tissue paper,ugen
+10915,reyon tissue paper,448.13,Beauty and hygiene,tissue paper,reyon
+10916,laryez tissue paper,348.20,Beauty and hygiene,tissue paper,laryez
+10917,gyudd tissue paper,19.27,Beauty and hygiene,tissue paper,gyudd
+10918,pepsodent tooth paste,797.99,Beauty and hygiene,tooth paste,pepsodent
+10919,patanjali tooth paste,735.55,Beauty and hygiene,tooth paste,patanjali
+10920,close up tooth paste,975.67,Beauty and hygiene,tooth paste,close up
+10921,colgate tooth paste,73.72,Beauty and hygiene,tooth paste,colgate
+10922,sensodyne tooth paste,497.59,Beauty and hygiene,tooth paste,sensodyne
+10923,rin soaps & detergents,878.34,Beauty and hygiene,soaps & detergents,rin
+10924,surf excel soaps & detergents,703.56,Beauty and hygiene,soaps & detergents,surf excel
+10925,tide soaps & detergents,272.18,Beauty and hygiene,soaps & detergents,tide
+10926,lifebuoy soaps & detergents,938.18,Beauty and hygiene,soaps & detergents,lifebuoy
+10927,dettol soaps & detergents,392.90,Beauty and hygiene,soaps & detergents,dettol
+10928,lux soaps & detergents,23.02,Beauty and hygiene,soaps & detergents,lux
+10929,dove soaps & detergents,929.54,Beauty and hygiene,soaps & detergents,dove
+10930,haldirams aloo Namkeen,337.51,Dry fruits and snacks,Namkeen,haldirams aloo
+10931,haldirams mix Namkeen,249.21,Dry fruits and snacks,Namkeen,haldirams mix
+10932,haldirams moong dal Namkeen,672.06,Dry fruits and snacks,Namkeen,haldirams moong dal
+10933,haldirams sweet Namkeen,462.87,Dry fruits and snacks,Namkeen,haldirams sweet
+10934,bikano aloo Namkeen,172.42,Dry fruits and snacks,Namkeen,bikano aloo
+10935,bikano mix Namkeen,450.24,Dry fruits and snacks,Namkeen,bikano mix
+10936,Lays Chips,285.95,Dry fruits and snacks,Chips,Lays
+10937,Spicy Potato Chips,549.83,Dry fruits and snacks,Chips,Spicy Potato
+10938,Kurkure Chips,262.57,Dry fruits and snacks,Chips,Kurkure
+10939,popcorn Chips,523.42,Dry fruits and snacks,Chips,popcorn
+10940,pringles Chips,96.17,Dry fruits and snacks,Chips,pringles
+10941,beno dry Cashews,49.85,Dry fruits and snacks,Cashews,beno dry
+10942,almani Cashews,537.64,Dry fruits and snacks,Cashews,almani
+10943,beeyo Cashews,994.36,Dry fruits and snacks,Cashews,beeyo
+10944,dini Cashews,599.17,Dry fruits and snacks,Cashews,dini
+10945,beno dry Raisins,164.63,Dry fruits and snacks,Raisins,beno dry
+10946,almani Raisins,435.03,Dry fruits and snacks,Raisins,almani
+10947,beeyo Raisins,906.89,Dry fruits and snacks,Raisins,beeyo
+10948,dini Raisins,706.04,Dry fruits and snacks,Raisins,dini
+10949,beno dry Walnut,341.72,Dry fruits and snacks,Walnut,beno dry
+10950,almani Walnut,718.55,Dry fruits and snacks,Walnut,almani
+10951,beeyo Walnut,800.66,Dry fruits and snacks,Walnut,beeyo
+10952,dini Walnut,781.38,Dry fruits and snacks,Walnut,dini
+10953,Korean Ramen Instant Noodles,383.62,Dry fruits and snacks,Instant Noodles,Korean Ramen
+10954,Chinsoo Instant Noodles,298.35,Dry fruits and snacks,Instant Noodles,Chinsoo
+10955,Current Spicy Instant Noodles,460.76,Dry fruits and snacks,Instant Noodles,Current Spicy
+10956,2PM Spicy Instant Noodles,966.04,Dry fruits and snacks,Instant Noodles,2PM Spicy
+10957,Hot Pot Instant Noodles,259.46,Dry fruits and snacks,Instant Noodles,Hot Pot
+10958,Good day Biscuits & Cookies,887.75,Dry fruits and snacks,Biscuits & Cookies,Good day
+10959,Monaco Biscuits & Cookies,440.81,Dry fruits and snacks,Biscuits & Cookies,Monaco
+10960,Britania Biscuits & Cookies,369.18,Dry fruits and snacks,Biscuits & Cookies,Britania
+10961,Marie Gold Biscuits & Cookies,62.27,Dry fruits and snacks,Biscuits & Cookies,Marie Gold
+10962,Sugar Free digestive Biscuits & Cookies,891.98,Dry fruits and snacks,Biscuits & Cookies,Sugar Free digestive
+10963,BourBourn Biscuits & Cookies,713.73,Dry fruits and snacks,Biscuits & Cookies,BourBourn
+10964,Hulas Rice,440.41,Daily Groceries,Rice,Hulas
+10965,Basmati Rice,902.88,Daily Groceries,Rice,Basmati
+10966,Marsee Rice,661.25,Daily Groceries,Rice,Marsee
+10967,india gate Rice,506.90,Daily Groceries,Rice,india gate
+10968,Gyan Chakki Flour,599.43,Daily Groceries,Flour,Gyan Chakki
+10969,Bhumi Flour,165.40,Daily Groceries,Flour,Bhumi
+10970,Healthy One Flour,915.46,Daily Groceries,Flour,Healthy One
+10971,Monio Olive Oil,288.60,Daily Groceries,Olive Oil,Monio
+10972,Forever Healthy Olive Oil,418.48,Daily Groceries,Olive Oil,Forever Healthy
+10973,Dhara Olive Oil,104.38,Daily Groceries,Olive Oil,Dhara
+10974,Patanjali Olive Oil,404.36,Daily Groceries,Olive Oil,Patanjali
+10975,Pena lentils,675.83,Daily Groceries,lentils,Pena
+10976,Gyanu lentils,505.97,Daily Groceries,lentils,Gyanu
+10977,Sanu Chana lentils,928.22,Daily Groceries,lentils,Sanu Chana
+10978,Palm lentils,816.49,Daily Groceries,lentils,Palm
+10979,Everest Chilly Spices,359.31,Daily Groceries,Spices,Everest Chilly
+10980,Everest Veggy Spices,392.00,Daily Groceries,Spices,Everest Veggy
+10981,Everest Chicken Spices,567.86,Daily Groceries,Spices,Everest Chicken
+10982,Century Momo Spices,764.94,Daily Groceries,Spices,Century Momo
+10983,Century chilly Spices,961.76,Daily Groceries,Spices,Century chilly
+10984,Century Chaat Spices,732.05,Daily Groceries,Spices,Century Chaat
+10985,Good vinegar seasoners,890.08,Daily Groceries,seasoners,Good vinegar
+10986,Garlic Paste seasoners,31.18,Daily Groceries,seasoners,Garlic Paste
